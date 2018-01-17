@@ -1,7 +1,7 @@
 {
     "NAME"     : "Overdrive",
-    "URL"      : "https://raw.githubusercontent.com/Real-Gecko/KSP-Overdrive/master/GameData/Overdrive/Overdrive.version",
-    "DOWNLOAD" : "https://github.com/Real-Gecko/KSP-Overdrive/releases",
+    "URL"      : "https://raw.githubusercontent.com/linuxgurugamer/KSP-Overdrive/master/Overdrive.version",
+    "DOWNLOAD" : "https://github.com/linuxgurugamer/KSP-Overdrive/releases",
     "GITHUB" :
     {
         "USERNAME" : "Real-Gecko",
@@ -12,6 +12,6 @@
         "MAJOR" : 1,
         "MINOR" : 1,
         "PATCH" : 0,
-        "BUILD" : 0
+        "BUILD" : 1
     }
 }
